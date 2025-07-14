@@ -34,10 +34,4 @@ The project is structured into the following key phases:
 You can install the necessary libraries using pip:
 
 ```bash
-
-```
-### This is formatted as code
-```
-
-
 pip install pandas numpy matplotlib seaborn scikit-learn
